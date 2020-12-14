@@ -4,6 +4,11 @@ Linea 3
 Linea 4 - CORRECTO
 Linea 5
 Linea 6
+<<<<<<< HEAD
 Linea 7 - DE ACA PARA ABAJO
 linea 9 - CORRECTA
 linea 10 - CORRECTA
+=======
+Linea 7
+Linea 8 - INCORRECTO !!!
+>>>>>>> main
