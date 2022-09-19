@@ -31,9 +31,9 @@
     <script>
         let elDivs = document.querySelectorAll("div")
         for(let i = 0 ; i < elDivs.length ; i++){
-            elDivs[i].addEventListener("mouseleave", function(e){
+            elDivs[i].addEventListener("click", function(e){
                 let target = e.target
-                target.style.backgroundColor = "pink"
+                target.style.backgroundColor = "red"
             })
         }
     </script>
