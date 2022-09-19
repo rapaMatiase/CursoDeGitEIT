@@ -4,7 +4,7 @@
 
  Pueden descarga en la parte de la ![Wiki](https://github.com/rapaMatiase/CursoDeGitEIT/wiki/Presentaci%C3%B3n) de este curso.
 
-Todos los ejercicios estan hechos en base a tegnologia para desarrollo web con HTML, CSS y Javascritp. No hace falta saber utilizarlas, todos los ejercicios se pueden resolver con sentido comun viendo el resultado en el navegador.
+<!-- Todos los ejercicios estan hechos en base a tegnologia para desarrollo web con HTML, CSS y Javascritp. No hace falta saber utilizarlas, todos los ejercicios se pueden resolver con sentido comun viendo el resultado en el navegador.
 
 ## Ejercicio de ramas 
 
@@ -17,4 +17,4 @@ Tiene varias ramas para ejercitar como utilizar ramas. En cada caso tenemos una 
 
 
 ### Ejercicio Egipto 
-
+ -->
