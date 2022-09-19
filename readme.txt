@@ -4,7 +4,13 @@ Todos los ejercicios estan hechos en base a tegnologia para desarrollo web con H
 
 ## Ejercicio de ramas 
 
-Tiene varias ramas para ejercitar como utilizar ramas. En cada caso tenemos una rama con el nombre de la rama, y ese es la rama principal del ejercicio. Es ahi donde se debe guardar el resultado final del mismo. Existe otras ramas segundarias que comienzan con el mismo nombre.
+Tiene varias ramas para ejercitar como utilizar ramas. En cada caso tenemos una rama con el nombre de la rama, y ese es la rama principal del ejercicio. Es ahi donde se debe guardar el resultado final del mismo. Existe otras ramas segundarias que comienzan con el mismo nombre. 
+
+* Fideos a la bonoñesa
+* Pizza de harina integral
+* Tarta de espinaca
+* Hamburgesa rellena de queso
+* Papas fritas
 
 ### Ejercicio recetario de cocina
 
