@@ -27,5 +27,15 @@
     <div></div>
     <div></div>
     <div></div>
+
+    <script>
+        let elDivs = document.querySelectorAll("div")
+        for(let i = 0 ; i < elDivs.length ; i++){
+            elDivs[i].addEventListener("mouseenter", function(e){
+                let target = e.target
+                target.style.backgroundColor = "yellow"
+            })
+        }
+    </script>
 </body>
 </html>
