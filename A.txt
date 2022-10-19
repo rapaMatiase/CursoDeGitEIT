@@ -2,3 +2,6 @@
 
 PARRAFO 1:
 No hace falta recordar que Siri es el asistente virtual de Apple. No necesita presentaciones. Se puede encontrar en un iPhone, Apple Watch, iPad, Mac y e incluso en un HomePod. También está en el Apple TV. Este puede hacer muchas cosas por uno en segundo plano, como sugerir acciones o aplicaciones, o responder a a una gran variedad preguntas.
+
+PARRAFO 2:
+Hay muchos comandos para Siri, algunos más obvios que otros. Pero todos ellos son muy útiles para consultar apps, responder dudas, configurar alarmas, recibir o enviar mensajes, etc.
